@@ -1,0 +1,9 @@
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.csprojResolveAssemblyReference.cache
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.Form1.resources
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.Properties.Resources.resources
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.csproj.GenerateResource.Cache
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.exe.config
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.exe
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.pdb
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.exe
+c:\users\arthur\documents\visual studio 2017\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.pdb
